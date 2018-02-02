@@ -15,7 +15,7 @@ Run the following command to see if there are any dependencies you need to insta
 flutter doctor
 ```
 
-Once everything is installed, navigate to this repo and type the following in terminal
+Once everything is installed, (This command should be run from the root of your Flutter project.)
 
 ```
 flutter run
